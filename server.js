@@ -1,7 +1,7 @@
 const express = require('express')
 const cors = require('cors')
 const helmet = require('helmet')
-var winston = require('winston');
+const winston = require('winston');
 
 const bodyParser = require('body-parser');
 const app = express()
