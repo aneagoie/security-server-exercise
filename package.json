@@ -11,9 +11,9 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "express": "^4.17.0",
-    "helmet": "^4.1.1",
-    "nodemon": "^2.0.4",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "nodemon": "^2.0.14",
     "winston": "3.3.3"
   }
 }
