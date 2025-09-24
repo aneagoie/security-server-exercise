@@ -4,7 +4,6 @@ const helmet = require('helmet')
 const winston = require('winston');
 
 //const bodyParser = require('body-parser'); you no longer need body-parser package...it comes built into expressJS now
-
 const app = express()
 app.use(cors())
 app.use(helmet())
